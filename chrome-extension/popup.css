@@ -1,0 +1,5 @@
+body { font-family: sans-serif; min-width: 350px; }
+#status { margin-bottom: 10px; }
+.tool-form { border: 1px solid #ddd; margin-bottom: 10px; padding: 10px; border-radius: 5px; }
+button { margin-top: 5px; }
+#result { margin-top: 15px; white-space: pre-wrap; background: #f5f5f5; padding: 10px; border-radius: 5px; }
